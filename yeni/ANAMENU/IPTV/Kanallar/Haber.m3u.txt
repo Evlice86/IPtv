@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="| TR | HABERTURK HD" tvg-logo="http://123f.online:8080/images/4d181199df1df39c27dc9f4682d78d02.png" group-title="TR=ULUSAL 1 HABER ",| TR | HABERTURK HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113144
+#EXTINF:-1 tvg-id="" tvg-name="| TR | CNN TURK HD" tvg-logo="http://123f.online:8080/images/e372116221c507837f1060a10f88cdac.png" group-title="TR=ULUSAL 1 HABER ",| TR | CNN TURK HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113145
+#EXTINF:-1 tvg-id="" tvg-name="| TR | A HABER HD" tvg-logo="http://123f.online:8080/images/1e2e7cd3cd4140af8de8807b0fc7babe.png" group-title="TR=ULUSAL 1 HABER ",| TR | A HABER HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113146
+#EXTINF:-1 tvg-id="" tvg-name="| TR | HALK TV HD" tvg-logo="http://123f.online:8080/images/bda87260d9a9d3912e9b39aae5d8e3f4.png" group-title="TR=ULUSAL 1 HABER ",| TR | HALK TV HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113147
+#EXTINF:-1 tvg-id="" tvg-name="| TR | KRT HD" tvg-logo="http://123f.online:8080/images/074ec4d09fb7e3f949b682e0b64b0d81.png" group-title="TR=ULUSAL 1 HABER ",| TR | KRT HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113148
+#EXTINF:-1 tvg-id="" tvg-name="| TR | HABER GLOBAL HD" tvg-logo="http://123f.online:8080/images/11c66c3bd1b98c6ea815bc1953447264.png" group-title="TR=ULUSAL 1 HABER ",| TR | HABER GLOBAL HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113149
+#EXTINF:-1 tvg-id="" tvg-name="| TR | TELE 1" tvg-logo="http://123f.online:8080/images/d2a86ff829756b7e3585380a6272bcd6.png" group-title="TR=ULUSAL 1 HABER ",| TR | TELE 1
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113150
+#EXTINF:-1 tvg-id="" tvg-name="| TR | NTV HD" tvg-logo="http://123f.online:8080/images/a2a2f191b7039c215680a82ec3ec0196.png" group-title="TR=ULUSAL 1 HABER ",| TR | NTV HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113151
+#EXTINF:-1 tvg-id="" tvg-name="| TR | TV 100 HD" tvg-logo="http://123f.online:8080/images/88e825ea4ed2efa49b586a98fd007aac.png" group-title="TR=ULUSAL 1 HABER ",| TR | TV 100 HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113152
+#EXTINF:-1 tvg-id="" tvg-name="| TR | BLOOMBERG HT HD" tvg-logo="http://123f.online:8080/images/4c86921c8d83aa2028f421a605e734d4.png" group-title="TR=ULUSAL 1 HABER ",| TR | BLOOMBERG HT HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113153
+#EXTINF:-1 tvg-id="" tvg-name="| TR | 24 HD" tvg-logo="http://123f.online:8080/images/2ac6b7ed4cb34d87bf1cfa78b01d1cb4.png" group-title="TR=ULUSAL 1 HABER ",| TR | 24 HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113155
+#EXTINF:-1 tvg-id="" tvg-name="| TR | TGRT HABER HD" tvg-logo="http://123f.online:8080/images/c3f3bc625cfcf6034896b200de0b012c.png" group-title="TR=ULUSAL 1 HABER ",| TR | TGRT HABER HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113156
+#EXTINF:-1 tvg-id="" tvg-name="| TR | ULKE HD" tvg-logo="http://123f.online:8080/images/edf8c30f316d87c500dcc3a30b53d045.png" group-title="TR=ULUSAL 1 HABER ",| TR | ULKE HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113158
+#EXTINF:-1 tvg-id="" tvg-name="| TR | ULUSAL KANAL" tvg-logo="http://123f.online:8080/images/06890b006239908845dfe83cb17dd94a.png" group-title="TR=ULUSAL 1 HABER ",| TR | ULUSAL KANAL
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113162
+#EXTINF:-1 tvg-id="" tvg-name="| TR | FLAS TV" tvg-logo="http://123f.online:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TR=ULUSAL 1 HABER ",| TR | FLAS TV
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113163
+#EXTINF:-1 tvg-id="" tvg-name="| TR | TVNET HD" tvg-logo="http://123f.online:8080/images/106298716dd25981ee81b239e6639009.png" group-title="TR=ULUSAL 1 HABER ",| TR | TVNET HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113164
+#EXTINF:-1 tvg-id="" tvg-name="| TR | EKOTURK HD" tvg-logo="http://123f.online:8080/images/c4ba4e0d503df0fec29a1d9906d37b3c.png" group-title="TR=ULUSAL 1 HABER ",| TR | EKOTURK HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113165
+#EXTINF:-1 tvg-id="" tvg-name="| TR | TRT HABER HD" tvg-logo="http://123f.online:8080/images/43e2b0613d11826e4e26a8eb06522f9c.png" group-title="TR=ULUSAL 1 HABER ",| TR | TRT HABER HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113154
+#EXTINF:-1 tvg-id="" tvg-name="| TR | A PARA HD" tvg-logo="http://123f.online:8080/images/6a900cfa5f87ed8ed2d6e0a0595fbf95.png" group-title="TR=ULUSAL 1 HABER ",| TR | A PARA HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/113166
+#EXTINF:-1 tvg-id="" tvg-name="| TR | SZC" tvg-logo="http://123f.online:8080/images/f97da39daf2838961d0448ad65277989.png" group-title="TR=ULUSAL 1 HABER ",| TR | SZC
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/136556
+#EXTINF:-1 tvg-id="" tvg-name="| TR | BMM" tvg-logo="http://123f.online:8080/images/32ba00533673ec1cec306d1515b632ee.png" group-title="TR=ULUSAL 1 HABER ",| TR | BMM
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/136570
+#EXTINF:-1 tvg-id="360 hd" tvg-name="| TR | 360 TV" tvg-logo="http://123f.online:8080/images/b714ae06cf833028d95f6ae2572f5c50.png" group-title="TR=ULUSAL 1 HABER ",| TR | 360 TV
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/155459
+#EXTINF:-1 tvg-id="" tvg-name="A NEWS " tvg-logo="" group-title="TR=ULUSAL 1 HABER ",A NEWS 
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/156331
+#EXTINF:-1 tvg-id="" tvg-name="TR 24 HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR 24 HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158852
+#EXTINF:-1 tvg-id="" tvg-name="TR A HABER HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR A HABER HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158853
+#EXTINF:-1 tvg-id="" tvg-name="TR tv 100" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR tv 100
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158854
+#EXTINF:-1 tvg-id="" tvg-name="TR A PARA HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR A PARA HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158855
+#EXTINF:-1 tvg-id="" tvg-name="TR AKIT TV HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR AKIT TV HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158856
+#EXTINF:-1 tvg-id="" tvg-name="TR BENGUTURK HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR BENGUTURK HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158857
+#EXTINF:-1 tvg-id="" tvg-name="TR BLOOMBERG HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR BLOOMBERG HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158859
+#EXTINF:-1 tvg-id="" tvg-name="TR CNN TURK HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR CNN TURK HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158860
+#EXTINF:-1 tvg-id="" tvg-name="TR EKO TURK HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR EKO TURK HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158861
+#EXTINF:-1 tvg-id="" tvg-name="TR FLASH HABER HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR FLASH HABER HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158862
+#EXTINF:-1 tvg-id="" tvg-name="TR HABER GLOBAL HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR HABER GLOBAL HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158863
+#EXTINF:-1 tvg-id="" tvg-name="TR HABER TURK HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR HABER TURK HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158864
+#EXTINF:-1 tvg-id="" tvg-name="TR HALK TV HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR HALK TV HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158865
+#EXTINF:-1 tvg-id="" tvg-name="TR NTV HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR NTV HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158867
+#EXTINF:-1 tvg-id="" tvg-name="TR SOZCU TV  HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR SOZCU TV  HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158868
+#EXTINF:-1 tvg-id="" tvg-name="TR TELE 1 HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR TELE 1 HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158869
+#EXTINF:-1 tvg-id="" tvg-name="TR TGRT HABER HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR TGRT HABER HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158870
+#EXTINF:-1 tvg-id="" tvg-name="TR TRT HABER HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR TRT HABER HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158871
+#EXTINF:-1 tvg-id="" tvg-name="TR TV NET HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR TV NET HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158872
+#EXTINF:-1 tvg-id="" tvg-name="TR ULUSAL KANAL HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR ULUSAL KANAL HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158873
+#EXTINF:-1 tvg-id="" tvg-name="TR ULKE TV HD" tvg-logo="" group-title="TR=ULUSAL 2 HABER",TR ULKE TV HD
+http://sun84.xyz:8080/taflan78g/B7UCvks3wM/158874
